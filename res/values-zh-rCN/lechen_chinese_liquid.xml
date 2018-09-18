@@ -72,8 +72,12 @@
 
     <!-- Volume rocker -->
     <string name="volume_title">音量摇杆</string>
-    <string name="volume_summary">其他音量选项和音量摇杆开关</string>
+    <string name="volume_summary">其他音量选项和音量摇臂开关</string>
 
+    <!-- Device features -->
+    <string name="device_title">设备特点</string>
+    <string name="device_summary">自定义警报滑块和屏幕外手势</string>
+    
   <!-- General strings -->
   <string name="ok">确定</string>
   <string name="reset">重置</string>
