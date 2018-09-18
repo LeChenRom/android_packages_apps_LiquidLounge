@@ -74,6 +74,10 @@
     <string name="volume_title">Volume rocker</string>
     <string name="volume_summary">Other volume options and volume rocker switch</string>
 
+    <!-- Device features -->
+    <string name="device_title">Device features</string>
+    <string name="device_summary">Customize alert slider and off screen gestures</string>
+
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Reset</string>
@@ -232,7 +236,7 @@
     <string name="heads_up_snooze_20min">20 minutes</string>
 
     <!-- Battery light -->
-    <string name="battery_light_settings">Battery charging light</string>
+    <string name="battery_light_settings">Battery light</string>
     <string name="battery_light_enable">Enable</string>
     <string name="battery_light_allow_on_dnd_title">Battery light in Do Not Disturb mode</string>
     <string name="battery_light_low_blinking_title">Blinking light on low battery</string>
