@@ -27,7 +27,7 @@
     	 android:summary="@string/device_summary">
     	 <intent android:action="android.intent.action.MAIN"
             android:targetPackage="org.omnirom.device"
-            android:targetClass="org.omnirom.device.DeviceSettings" />
+            android:targetClass="org.omnirom.device.DeviceSettingsActivity" />
     </Preference>
 
     <!-- Volume rocker -->
