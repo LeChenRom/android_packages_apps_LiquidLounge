@@ -102,7 +102,7 @@
 
     <!-- SeekBar -->
     <string name="seekbar_no_default_value">没有设置默认值</string>
-    <string name="seekbar_default_value_set">值设置为默认值<xliff：g id =“number”>％d </ xliff：g></string>
+    <string name="seekbar_default_value_set">值设置为默认值</string>
     <string name="seekbar_default_value_already_set">默认值已设置</string>
     <string name="seekbar_default_string">默认</string>
 
@@ -149,7 +149,7 @@
     <string name="select_custom_app_title">选择自定义应用</string>
     <string name="select_custom_activity_title">选择自定义活动</string>
     <string name="profile_applist_title">应用程序</string>
-    <string name="choose_action_title">选择操作<</string>
+    <string name="choose_action_title">选择操作</string>
     <string name="action_entry_default_action">默认设置</string>
     <string name="action_entry_select_app">选择应用程序</string>
     <string name="action_entry_custom_action">选择自定义操作</string>
@@ -216,7 +216,7 @@
 
     <!-- Heads up timeout -->
     <string name="heads_up_time_out_title">超时</string>
-    <string name="heads_up_time_out_summary">偷看通知将显示<xliff：g id =“number”>％d </ xliff：g>秒</string>
+    <string name="heads_up_time_out_summary">偷看通知将显示秒</string>
     <string name="heads_up_time_out_2sec">2 秒</string>
     <string name="heads_up_time_out_4sec">4 秒</string>
     <string name="heads_up_time_out_5sec">5 秒</string>
@@ -227,7 +227,7 @@
     <!-- Heads up snooze -->
     <string name="heads_up_snooze_title">贪睡计时器</string>
     <string name="heads_up_snooze_summary_one_minute">向上扫视偷看通知会从该应用程序中抬起头1分钟</string>
-    <string name="heads_up_snooze_summary">向上扫视窥视通知会从该应用程序中向后抬起<xliff：g id =“number”>％d </ xliff：g>分钟</string>
+    <string name="heads_up_snooze_summary">向上扫视窥视通知会从该应用程序中向后抬起>分钟</string>
     <string name="heads_up_snooze_disabled_summary">暂停贪睡计时器</string>
     <string name="heads_up_snooze_1min">1 分钟</string>
     <string name="heads_up_snooze_5min">5 分钟</string>
@@ -248,7 +248,7 @@
 
     <!-- Wakeup options -->
     <string name="wakeup_when_plugged_unplugged_title">Wake up on charge</string>
-    <string name="wakeup_when_plugged_unplugged_summary"如果插入/拔出充电器，则唤醒设备.</string>
+    <string name="wakeup_when_plugged_unplugged_summary">如果插入/拔出充电器，则唤醒设备.</string>
 
     <!-- Battery percentage -->
     <string name="battery_style_category_title">电池图标</string>
